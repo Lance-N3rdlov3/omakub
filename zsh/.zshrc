@@ -198,3 +198,4 @@ test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell
 
 GOPATH=/home/nrd/go
 
+PATH=/home/nrd/Documents/python:/home/nrd/.local/share/mise/installs/elixir/1.18.0-otp-27/bin:/home/nrd/.local/share/mise/installs/elixir/1.18.0-otp-27/.mix/escripts:/home/nrd/.local/share/mise/installs/erlang/27.2/bin:/home/nrd/.local/share/mise/installs/go/1.23.4/bin:/home/nrd/.local/share/mise/installs/java/23.0.1/bin:/home/nrd/.local/share/mise/installs/node/22.12.0/bin:/home/nrd/.local/share/mise/installs/python/3.13.1/bin:/home/nrd/.local/share/mise/installs/ruby/3.3.6/bin:/home/nrd/bin:/usr/local/bin:/opt/homebrew/bin:/home/nrd/bin:/usr/local/bin:/opt/homebrew/bin:/home/nrd/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
