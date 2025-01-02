@@ -1,0 +1,1316 @@
+2024-11-14 02:56:43: App: Profile directory: /Users/nrd/.config/joplin
+2024-11-14 02:56:43: App: Root profile directory: /Users/nrd/.config/joplin
+2024-11-14 02:56:43: Database was open successfully
+2024-11-14 02:56:43: Checking for database schema update...
+2024-11-14 02:56:43: Current database version <null>
+2024-11-14 02:56:43: Upgrading database from version 0
+2024-11-14 02:56:43: Converting database to version 1
+2024-11-14 02:56:43: Converting database to version 2
+2024-11-14 02:56:43: Converting database to version 3
+2024-11-14 02:56:43: Converting database to version 4
+2024-11-14 02:56:43: Converting database to version 5
+2024-11-14 02:56:43: Converting database to version 6
+2024-11-14 02:56:43: Converting database to version 7
+2024-11-14 02:56:43: Converting database to version 8
+2024-11-14 02:56:43: Converting database to version 9
+2024-11-14 02:56:43: Converting database to version 10
+2024-11-14 02:56:43: Converting database to version 11
+2024-11-14 02:56:43: Converting database to version 12
+2024-11-14 02:56:43: Converting database to version 13
+2024-11-14 02:56:43: Converting database to version 14
+2024-11-14 02:56:43: Converting database to version 15
+2024-11-14 02:56:43: Converting database to version 16
+2024-11-14 02:56:43: Converting database to version 17
+2024-11-14 02:56:43: Converting database to version 18
+2024-11-14 02:56:43: Converting database to version 19
+2024-11-14 02:56:43: Converting database to version 20
+2024-11-14 02:56:43: Converting database to version 21
+2024-11-14 02:56:43: Converting database to version 22
+2024-11-14 02:56:43: Converting database to version 23
+2024-11-14 02:56:43: Converting database to version 24
+2024-11-14 02:56:43: Converting database to version 25
+2024-11-14 02:56:43: Converting database to version 26
+2024-11-14 02:56:43: Converting database to version 27
+2024-11-14 02:56:43: Converting database to version 28
+2024-11-14 02:56:43: Converting database to version 29
+2024-11-14 02:56:43: Converting database to version 30
+2024-11-14 02:56:43: Converting database to version 31
+2024-11-14 02:56:43: Converting database to version 32
+2024-11-14 02:56:43: Converting database to version 33
+2024-11-14 02:56:43: Converting database to version 34
+2024-11-14 02:56:43: Migration failed with fallback and will not be repeated - saving version number
+2024-11-14 02:56:43: Converting database to version 35
+2024-11-14 02:56:43: Converting database to version 36
+2024-11-14 02:56:43: Converting database to version 37
+2024-11-14 02:56:43: Converting database to version 38
+2024-11-14 02:56:43: Converting database to version 39
+2024-11-14 02:56:43: Converting database to version 40
+2024-11-14 02:56:43: Converting database to version 41
+2024-11-14 02:56:43: Converting database to version 42
+2024-11-14 02:56:43: Converting database to version 43
+2024-11-14 02:56:43: Converting database to version 44
+2024-11-14 02:56:43: Converting database to version 45
+2024-11-14 02:56:43: Converting database to version 46
+2024-11-14 02:56:43: Converting database to version 47
+2024-11-14 02:56:43: New version: 47. Previously recorded version: 0
+2024-11-14 02:56:43: Initializing tables...
+2024-11-14 02:56:44: KeychainService: checking if keychain supported
+2024-11-14 02:56:44: KeychainService: tried to set and get password. Result was: mytest
+2024-11-14 02:56:44: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-11-14 02:56:44: handleSyncStartupOperation: Processing operation: 0
+2024-11-14 02:56:44: App: Client ID: 3ff5db05ce534bec94e28017918df4a9
+2024-11-14 02:56:44: First start: detected locale as en_US
+2024-11-14 02:56:44: models/Setting: Skipping all default migrations...
+2024-11-14 02:56:44: e2ee/utils: Trying to load 0 master keys...
+2024-11-14 02:56:44: e2ee/utils: Loaded master keys: 0
+2024-11-14 02:56:44: ResourceFetcher: Auto-add resources: Mode: always
+2024-11-14 02:56:44: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-11-14 02:56:44: ResourceFetcher: Auto-added resources: 0
+2024-11-14 02:56:44: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-11-14 02:56:44: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-11-14 02:56:44: Running migration: 20
+2024-11-14 02:56:44: DeleteAction: MigrationService: ; Item IDs: 1
+2024-11-14 02:56:44: Running migration: 27
+2024-11-14 02:56:44: DeleteAction: MigrationService: ; Item IDs: 2
+2024-11-14 02:56:44: Running migration: 33
+2024-11-14 02:56:44: SearchEngine: Updating FTS table...
+2024-11-14 02:56:44: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-14 02:56:44: SearchEngine: Updated FTS table in 0ms. Inserted: 0. Deleted: 0
+2024-11-14 02:56:44: DeleteAction: MigrationService: ; Item IDs: 3
+2024-11-14 02:56:44: Running migration: 35
+2024-11-14 02:56:44: SearchEngine: Updating FTS table...
+2024-11-14 02:56:44: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-14 02:56:44: SearchEngine: Updated FTS table in 1ms. Inserted: 0. Deleted: 0
+2024-11-14 02:56:44: DeleteAction: MigrationService: ; Item IDs: 4
+2024-11-14 02:56:44: Running migration: 42
+2024-11-14 02:56:44: DeleteAction: MigrationService: ; Item IDs: 5
+2024-11-14 02:56:44: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-14 02:56:44: e2ee/utils: Trying to load 0 master keys...
+2024-11-14 02:56:44: e2ee/utils: Loaded master keys: 0
+2024-11-14 02:56:44: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-14 02:56:44: e2ee/utils: Trying to load 0 master keys...
+2024-11-14 02:56:44: e2ee/utils: Loaded master keys: 0
+2024-11-14 02:56:44: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-14 02:56:44: e2ee/utils: Trying to load 0 master keys...
+2024-11-14 02:56:44: e2ee/utils: Loaded master keys: 0
+2024-11-14 02:56:44: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-11-14 02:56:44: App: FFFFFFFFFFFFF [
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1731571004356,
+        "user_updated_time": 1731571004356,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-14 02:56:44: App: PARENT 
+2024-11-14 02:56:44: App: FFF Trash 
+2024-11-14 02:56:45: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-11-14 02:56:48: RevisionService: maintenance: Starting...
+2024-11-14 02:56:48: RevisionService: maintenance: Service is enabled
+2024-11-14 02:56:48: RevisionService: collectRevisions: Created revisions for 0 notes
+2024-11-14 02:56:48: RevisionService: maintenance: Done in 105ms
+2024-11-14 02:56:54: SearchEngine: Updating FTS table...
+2024-11-14 02:56:54: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-14 02:56:54: SearchEngine: Updated FTS table in 2ms. Inserted: 0. Deleted: 0
+2024-11-14 02:56:54: Preparing scheduled sync
+2024-11-14 02:56:54: Sync cancelled - no sync target is selected.
+2024-11-14 02:56:59: App: FFFFFFFFFFFFF [
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1731571004356,
+        "user_updated_time": 1731571004356,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    },
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2
+    }
+]
+2024-11-14 02:56:59: App: PARENT 
+2024-11-14 02:56:59: App: FFF Trash 
+2024-11-14 02:56:59: App: FFF golang 
+2024-11-14 02:57:00: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1731571020840,
+        "user_updated_time": 1731571020840,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-14 02:57:00: App: PARENT 
+2024-11-14 02:57:00: App: FFF golang 
+2024-11-14 02:57:00: App: FFF Trash 
+2024-11-14 02:57:09: SearchEngine: Updating FTS table...
+2024-11-14 02:57:09: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-14 02:57:09: SearchEngine: Updated FTS table in 1ms. Inserted: 0. Deleted: 0
+2024-11-14 02:57:14: ResourceService::indexNoteResources: Start
+2024-11-14 02:57:14: ResourceService::indexNoteResources: Completed
+2024-11-14 02:57:14: ResourceService::deleteOrphanResources: []
+2024-11-14 02:57:14: Preparing scheduled sync
+2024-11-14 02:57:14: Sync cancelled - no sync target is selected.
+2024-11-14 02:57:21: Fetching geolocation...
+2024-11-14 02:57:22: Got lat/long
+2024-11-14 02:57:22: Updating lat/long of note 219ffc331f184a489c228a3705c1de60
+2024-11-14 02:57:22: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1731571042830,
+        "user_updated_time": 1731571042830,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-14 02:57:22: App: PARENT 
+2024-11-14 02:57:22: App: FFF golang 
+2024-11-14 02:57:22: App: FFF Trash 
+2024-11-18 22:32:03: App: Profile directory: /Users/nrd/.config/joplin
+2024-11-18 22:32:03: App: Root profile directory: /Users/nrd/.config/joplin
+2024-11-18 22:32:03: Database was open successfully
+2024-11-18 22:32:03: Checking for database schema update...
+2024-11-18 22:32:03: Current database version {"version":47,"table_fields_version":47}
+2024-11-18 22:32:03: Upgrading database from version 47
+2024-11-18 22:32:03: New version: 47. Previously recorded version: 47
+2024-11-18 22:32:03: KeychainService: checking if keychain supported
+2024-11-18 22:32:03: KeychainService: check was already done - skipping. Supported: 1
+2024-11-18 22:32:03: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-11-18 22:32:03: handleSyncStartupOperation: Processing operation: 0
+2024-11-18 22:32:03: App: Client ID: 3ff5db05ce534bec94e28017918df4a9
+2024-11-18 22:32:03: models/Setting: Applying default migrations...
+2024-11-18 22:32:03: e2ee/utils: Trying to load 0 master keys...
+2024-11-18 22:32:03: e2ee/utils: Loaded master keys: 0
+2024-11-18 22:32:03: ResourceFetcher: Auto-add resources: Mode: always
+2024-11-18 22:32:03: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-11-18 22:32:03: ResourceFetcher: Auto-added resources: 0
+2024-11-18 22:32:03: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-11-18 22:32:03: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-11-18 22:32:03: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-18 22:32:03: e2ee/utils: Trying to load 0 master keys...
+2024-11-18 22:32:03: e2ee/utils: Loaded master keys: 0
+2024-11-18 22:32:03: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-18 22:32:03: e2ee/utils: Trying to load 0 master keys...
+2024-11-18 22:32:03: e2ee/utils: Loaded master keys: 0
+2024-11-18 22:32:03: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-18 22:32:03: e2ee/utils: Trying to load 0 master keys...
+2024-11-18 22:32:03: e2ee/utils: Loaded master keys: 0
+2024-11-18 22:32:03: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-11-18 22:32:03: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1731987123726,
+        "user_updated_time": 1731987123726,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-18 22:32:03: App: PARENT 
+2024-11-18 22:32:03: App: FFF golang 
+2024-11-18 22:32:03: App: FFF Trash 
+2024-11-18 22:32:04: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-11-19 11:53:09: App: Profile directory: /Users/nrd/.config/joplin
+2024-11-19 11:53:09: App: Root profile directory: /Users/nrd/.config/joplin
+2024-11-19 11:53:09: Database was open successfully
+2024-11-19 11:53:09: Checking for database schema update...
+2024-11-19 11:53:09: Current database version {"version":47,"table_fields_version":47}
+2024-11-19 11:53:09: Upgrading database from version 47
+2024-11-19 11:53:09: New version: 47. Previously recorded version: 47
+2024-11-19 11:53:09: KeychainService: checking if keychain supported
+2024-11-19 11:53:09: KeychainService: check was already done - skipping. Supported: 1
+2024-11-19 11:53:09: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-11-19 11:53:09: handleSyncStartupOperation: Processing operation: 0
+2024-11-19 11:53:09: App: Client ID: 3ff5db05ce534bec94e28017918df4a9
+2024-11-19 11:53:09: models/Setting: Applying default migrations...
+2024-11-19 11:53:09: e2ee/utils: Trying to load 0 master keys...
+2024-11-19 11:53:09: e2ee/utils: Loaded master keys: 0
+2024-11-19 11:53:09: ResourceFetcher: Auto-add resources: Mode: always
+2024-11-19 11:53:09: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-11-19 11:53:09: ResourceFetcher: Auto-added resources: 0
+2024-11-19 11:53:09: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-11-19 11:53:09: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-11-19 11:53:09: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-19 11:53:09: e2ee/utils: Trying to load 0 master keys...
+2024-11-19 11:53:09: e2ee/utils: Loaded master keys: 0
+2024-11-19 11:53:09: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-19 11:53:09: e2ee/utils: Trying to load 0 master keys...
+2024-11-19 11:53:09: e2ee/utils: Loaded master keys: 0
+2024-11-19 11:53:09: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-19 11:53:09: e2ee/utils: Trying to load 0 master keys...
+2024-11-19 11:53:09: e2ee/utils: Loaded master keys: 0
+2024-11-19 11:53:09: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-11-19 11:53:09: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732035189709,
+        "user_updated_time": 1732035189709,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-19 11:53:09: App: PARENT 
+2024-11-19 11:53:09: App: FFF golang 
+2024-11-19 11:53:09: App: FFF Trash 
+2024-11-19 11:53:10: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-11-18 22:32:06: Disabling fullscreen...
+2024-11-19 11:53:30: RevisionService: maintenance: Starting...
+2024-11-19 11:53:30: RevisionService: maintenance: Service is enabled
+2024-11-19 11:53:30: SearchEngine: Updating FTS table...
+2024-11-19 11:53:30: Preparing scheduled sync
+2024-11-19 11:53:30: Sync cancelled - no sync target is selected.
+2024-11-19 11:53:30: ResourceService::indexNoteResources: Start
+2024-11-19 11:53:30: Running background sync on timer...
+2024-11-19 11:53:30: Preparing scheduled sync
+2024-11-19 11:53:30: Sync cancelled - no sync target is selected.
+2024-11-19 11:53:30: RevisionService: maintenance: Starting...
+2024-11-19 11:53:30: RevisionService: maintenance: Service is enabled
+2024-11-19 11:53:30: ResourceService::indexNoteResources: Start
+2024-11-19 11:53:30: ResourceService::indexNoteResources: Already indexing - waiting for it to finish
+2024-11-19 11:53:30: RevisionService: maintenance: Done in 5ms
+2024-11-19 11:53:30: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-11-19 11:53:30: RevisionService: maintenance: Done in 123ms
+2024-11-19 11:53:30: ResourceService::indexNoteResources: Completed
+2024-11-19 11:53:30: ResourceService::deleteOrphanResources: []
+2024-11-19 11:53:30: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-19 11:53:30: SearchEngine: Updated FTS table in 30ms. Inserted: 1. Deleted: 0
+2024-11-19 11:53:31: ResourceService::deleteOrphanResources: []
+2024-11-19 11:53:11: Disabling fullscreen...
+2024-11-19 11:53:48: RevisionService: maintenance: Starting...
+2024-11-19 11:53:48: RevisionService: maintenance: Service is enabled
+2024-11-19 11:53:48: SearchEngine: Updating FTS table...
+2024-11-19 11:53:48: Preparing scheduled sync
+2024-11-19 11:53:48: Sync cancelled - no sync target is selected.
+2024-11-19 11:53:48: ResourceService::indexNoteResources: Start
+2024-11-19 11:53:48: ResourceService::indexNoteResources: Completed
+2024-11-19 11:53:48: ResourceService::deleteOrphanResources: []
+2024-11-19 11:53:48: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-11-19 11:53:48: RevisionService: maintenance: Done in 125ms
+2024-11-19 11:53:48: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-19 11:53:48: SearchEngine: Updated FTS table in 26ms. Inserted: 1. Deleted: 0
+2024-11-19 11:53:57: App: Profile directory: /Users/nrd/.config/joplin
+2024-11-19 11:53:57: App: Root profile directory: /Users/nrd/.config/joplin
+2024-11-19 11:53:57: Database was open successfully
+2024-11-19 11:53:57: Checking for database schema update...
+2024-11-19 11:53:57: Current database version {"version":47,"table_fields_version":47}
+2024-11-19 11:53:57: Upgrading database from version 47
+2024-11-19 11:53:57: New version: 47. Previously recorded version: 47
+2024-11-19 11:53:57: KeychainService: checking if keychain supported
+2024-11-19 11:53:57: KeychainService: check was already done - skipping. Supported: 1
+2024-11-19 11:53:57: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-11-19 11:53:57: handleSyncStartupOperation: Processing operation: 0
+2024-11-19 11:53:57: App: Client ID: 3ff5db05ce534bec94e28017918df4a9
+2024-11-19 11:53:57: models/Setting: Applying default migrations...
+2024-11-19 11:53:57: e2ee/utils: Trying to load 0 master keys...
+2024-11-19 11:53:57: e2ee/utils: Loaded master keys: 0
+2024-11-19 11:53:57: ResourceFetcher: Auto-add resources: Mode: always
+2024-11-19 11:53:57: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-11-19 11:53:57: ResourceFetcher: Auto-added resources: 0
+2024-11-19 11:53:57: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-11-19 11:53:57: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-11-19 11:53:57: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-19 11:53:57: e2ee/utils: Trying to load 0 master keys...
+2024-11-19 11:53:57: e2ee/utils: Loaded master keys: 0
+2024-11-19 11:53:57: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-19 11:53:57: e2ee/utils: Trying to load 0 master keys...
+2024-11-19 11:53:57: e2ee/utils: Loaded master keys: 0
+2024-11-19 11:53:57: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-19 11:53:57: e2ee/utils: Trying to load 0 master keys...
+2024-11-19 11:53:57: e2ee/utils: Loaded master keys: 0
+2024-11-19 11:53:57: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-11-19 11:53:57: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732035237678,
+        "user_updated_time": 1732035237678,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-19 11:53:57: App: PARENT 
+2024-11-19 11:53:57: App: FFF golang 
+2024-11-19 11:53:57: App: FFF Trash 
+2024-11-19 11:53:58: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-11-19 11:54:01: Disabling fullscreen...
+2024-11-20 02:57:27: RevisionService: maintenance: Starting...
+2024-11-20 02:57:27: RevisionService: maintenance: Service is enabled
+2024-11-20 02:57:27: SearchEngine: Updating FTS table...
+2024-11-20 02:57:27: Preparing scheduled sync
+2024-11-20 02:57:27: Sync cancelled - no sync target is selected.
+2024-11-20 02:57:27: ResourceService::indexNoteResources: Start
+2024-11-20 02:57:27: Running background sync on timer...
+2024-11-20 02:57:27: Preparing scheduled sync
+2024-11-20 02:57:27: Sync cancelled - no sync target is selected.
+2024-11-20 02:57:27: RevisionService: maintenance: Starting...
+2024-11-20 02:57:27: RevisionService: maintenance: Service is enabled
+2024-11-20 02:57:27: ResourceService::indexNoteResources: Start
+2024-11-20 02:57:27: ResourceService::indexNoteResources: Already indexing - waiting for it to finish
+2024-11-20 02:57:27: RevisionService: maintenance: Done in 9ms
+2024-11-20 02:57:28: ResourceService::indexNoteResources: Completed
+2024-11-20 02:57:28: ResourceService::deleteOrphanResources: []
+2024-11-20 02:57:28: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-11-20 02:57:28: RevisionService: maintenance: Done in 117ms
+2024-11-20 02:57:28: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-20 02:57:28: SearchEngine: Updated FTS table in 15ms. Inserted: 1. Deleted: 0
+2024-11-20 02:57:28: ResourceService::deleteOrphanResources: []
+2024-11-20 02:57:43: Preparing scheduled sync
+2024-11-20 02:57:43: Sync cancelled - no sync target is selected.
+2024-11-22 02:54:56: App: Profile directory: /Users/nrd/.config/joplin
+2024-11-22 02:54:56: App: Root profile directory: /Users/nrd/.config/joplin
+2024-11-22 02:54:56: Database was open successfully
+2024-11-22 02:54:56: Checking for database schema update...
+2024-11-22 02:54:56: Current database version {"version":47,"table_fields_version":47}
+2024-11-22 02:54:56: Upgrading database from version 47
+2024-11-22 02:54:56: New version: 47. Previously recorded version: 47
+2024-11-22 02:54:56: KeychainService: checking if keychain supported
+2024-11-22 02:54:56: KeychainService: check was already done - skipping. Supported: 1
+2024-11-22 02:54:56: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-11-22 02:54:56: handleSyncStartupOperation: Processing operation: 0
+2024-11-22 02:54:56: App: Client ID: 3ff5db05ce534bec94e28017918df4a9
+2024-11-22 02:54:56: models/Setting: Applying default migrations...
+2024-11-22 02:54:56: e2ee/utils: Trying to load 0 master keys...
+2024-11-22 02:54:56: e2ee/utils: Loaded master keys: 0
+2024-11-22 02:54:56: ResourceFetcher: Auto-add resources: Mode: always
+2024-11-22 02:54:56: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-11-22 02:54:56: ResourceFetcher: Auto-added resources: 0
+2024-11-22 02:54:56: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-11-22 02:54:56: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-11-22 02:54:56: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-22 02:54:56: e2ee/utils: Trying to load 0 master keys...
+2024-11-22 02:54:56: e2ee/utils: Loaded master keys: 0
+2024-11-22 02:54:56: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-22 02:54:56: e2ee/utils: Trying to load 0 master keys...
+2024-11-22 02:54:56: e2ee/utils: Loaded master keys: 0
+2024-11-22 02:54:56: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-22 02:54:56: e2ee/utils: Trying to load 0 master keys...
+2024-11-22 02:54:56: e2ee/utils: Loaded master keys: 0
+2024-11-22 02:54:56: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-11-22 02:54:56: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732262096572,
+        "user_updated_time": 1732262096572,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-22 02:54:56: App: PARENT 
+2024-11-22 02:54:56: App: FFF golang 
+2024-11-22 02:54:56: App: FFF Trash 
+2024-11-22 02:54:57: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-11-22 02:55:00: RevisionService: maintenance: Starting...
+2024-11-22 02:55:00: RevisionService: maintenance: Service is enabled
+2024-11-22 02:55:00: RevisionService: collectRevisions: Created revisions for 0 notes
+2024-11-22 02:55:00: RevisionService: maintenance: Done in 107ms
+2024-11-22 02:55:06: SearchEngine: Updating FTS table...
+2024-11-22 02:55:06: Preparing scheduled sync
+2024-11-22 02:55:06: Sync cancelled - no sync target is selected.
+2024-11-22 02:55:06: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-22 02:55:06: SearchEngine: Updated FTS table in 6ms. Inserted: 0. Deleted: 0
+2024-11-22 02:55:26: ResourceService::indexNoteResources: Start
+2024-11-22 02:55:26: ResourceService::indexNoteResources: Completed
+2024-11-22 02:55:26: ResourceService::deleteOrphanResources: []
+2024-11-22 02:58:00: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732262280435,
+        "user_updated_time": 1732262280435,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-22 02:58:00: App: PARENT 
+2024-11-22 02:58:00: App: FFF golang 
+2024-11-22 02:58:00: App: FFF Trash 
+2024-11-22 02:58:09: SearchEngine: Updating FTS table...
+2024-11-22 02:58:09: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-22 02:58:09: SearchEngine: Updated FTS table in 17ms. Inserted: 0. Deleted: 0
+2024-11-22 02:58:14: Preparing scheduled sync
+2024-11-22 02:58:14: Sync cancelled - no sync target is selected.
+2024-11-24 23:43:32: App: Profile directory: /Users/nrd/.config/joplin
+2024-11-24 23:43:32: App: Root profile directory: /Users/nrd/.config/joplin
+2024-11-24 23:43:32: Database was open successfully
+2024-11-24 23:43:32: Checking for database schema update...
+2024-11-24 23:43:32: Current database version {"version":47,"table_fields_version":47}
+2024-11-24 23:43:32: Upgrading database from version 47
+2024-11-24 23:43:32: New version: 47. Previously recorded version: 47
+2024-11-24 23:43:32: KeychainService: checking if keychain supported
+2024-11-24 23:43:32: KeychainService: check was already done - skipping. Supported: 1
+2024-11-24 23:43:32: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-11-24 23:43:32: handleSyncStartupOperation: Processing operation: 0
+2024-11-24 23:43:32: App: Client ID: 3ff5db05ce534bec94e28017918df4a9
+2024-11-24 23:43:32: models/Setting: Applying default migrations...
+2024-11-24 23:43:32: e2ee/utils: Trying to load 0 master keys...
+2024-11-24 23:43:32: e2ee/utils: Loaded master keys: 0
+2024-11-24 23:43:32: ResourceFetcher: Auto-add resources: Mode: always
+2024-11-24 23:43:32: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-11-24 23:43:32: ResourceFetcher: Auto-added resources: 0
+2024-11-24 23:43:32: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-11-24 23:43:32: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-11-24 23:43:32: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-24 23:43:32: e2ee/utils: Trying to load 0 master keys...
+2024-11-24 23:43:32: e2ee/utils: Loaded master keys: 0
+2024-11-24 23:43:32: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-24 23:43:32: e2ee/utils: Trying to load 0 master keys...
+2024-11-24 23:43:32: e2ee/utils: Loaded master keys: 0
+2024-11-24 23:43:32: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-24 23:43:32: e2ee/utils: Trying to load 0 master keys...
+2024-11-24 23:43:32: e2ee/utils: Loaded master keys: 0
+2024-11-24 23:43:32: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-11-24 23:43:32: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732509812411,
+        "user_updated_time": 1732509812411,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-24 23:43:32: App: PARENT 
+2024-11-24 23:43:32: App: FFF golang 
+2024-11-24 23:43:32: App: FFF Trash 
+2024-11-24 23:43:33: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-11-24 23:43:36: RevisionService: maintenance: Starting...
+2024-11-24 23:43:36: RevisionService: maintenance: Service is enabled
+2024-11-24 23:43:36: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-11-24 23:43:36: RevisionService: maintenance: Done in 128ms
+2024-11-24 23:43:42: SearchEngine: Updating FTS table...
+2024-11-24 23:43:42: Preparing scheduled sync
+2024-11-24 23:43:42: Sync cancelled - no sync target is selected.
+2024-11-24 23:43:42: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-24 23:43:42: SearchEngine: Updated FTS table in 5ms. Inserted: 0. Deleted: 0
+2024-11-24 23:43:45: Fetching geolocation...
+2024-11-24 23:43:45: Got lat/long
+2024-11-24 23:43:45: Updating lat/long of note af2319ada77540278dfb9d13cf4b8345
+2024-11-24 23:43:46: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732509826287,
+        "user_updated_time": 1732509826287,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-24 23:43:46: App: PARENT 
+2024-11-24 23:43:46: App: FFF golang 
+2024-11-24 23:43:46: App: FFF Trash 
+2024-11-24 23:43:46: Disabling fullscreen...
+2024-11-25 14:32:58: SearchEngine: Updating FTS table...
+2024-11-25 14:32:58: Preparing scheduled sync
+2024-11-25 14:32:58: Sync cancelled - no sync target is selected.
+2024-11-25 14:32:58: ResourceService::indexNoteResources: Start
+2024-11-25 14:32:58: Running background sync on timer...
+2024-11-25 14:32:58: Preparing scheduled sync
+2024-11-25 14:32:58: Sync cancelled - no sync target is selected.
+2024-11-25 14:32:58: RevisionService: maintenance: Starting...
+2024-11-25 14:32:58: RevisionService: maintenance: Service is enabled
+2024-11-25 14:32:58: ResourceService::indexNoteResources: Start
+2024-11-25 14:32:58: ResourceService::indexNoteResources: Already indexing - waiting for it to finish
+2024-11-25 14:32:58: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-11-25 14:32:58: RevisionService: maintenance: Done in 118ms
+2024-11-25 14:32:58: ResourceService::indexNoteResources: Completed
+2024-11-25 14:32:58: ResourceService::deleteOrphanResources: []
+2024-11-25 14:32:58: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-25 14:32:58: SearchEngine: Updated FTS table in 22ms. Inserted: 1. Deleted: 0
+2024-11-25 14:32:59: ResourceService::deleteOrphanResources: []
+2024-11-25 14:33:13: Preparing scheduled sync
+2024-11-25 14:33:13: Sync cancelled - no sync target is selected.
+2024-11-25 14:33:53: Fetching geolocation...
+2024-11-25 14:33:53: Got lat/long
+2024-11-25 14:33:53: Updating lat/long of note 06b9989b22fb4dec81638982b1555bfd
+2024-11-25 14:33:54: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 2
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732563234774,
+        "user_updated_time": 1732563234774,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-25 14:33:54: App: PARENT 
+2024-11-25 14:33:54: App: FFF golang 
+2024-11-25 14:33:54: App: FFF Trash 
+2024-11-25 14:33:55: Disabling fullscreen...
+2024-11-27 13:22:26: App: Profile directory: /Users/nrd/.config/joplin
+2024-11-27 13:22:26: App: Root profile directory: /Users/nrd/.config/joplin
+2024-11-27 13:22:26: Database was open successfully
+2024-11-27 13:22:26: Checking for database schema update...
+2024-11-27 13:22:26: Current database version {"version":47,"table_fields_version":47}
+2024-11-27 13:22:26: Upgrading database from version 47
+2024-11-27 13:22:26: New version: 47. Previously recorded version: 47
+2024-11-27 13:22:26: KeychainService: checking if keychain supported
+2024-11-27 13:22:26: KeychainService: check was already done - skipping. Supported: 1
+2024-11-27 13:22:26: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-11-27 13:22:26: handleSyncStartupOperation: Processing operation: 0
+2024-11-27 13:22:26: App: Client ID: 3ff5db05ce534bec94e28017918df4a9
+2024-11-27 13:22:26: models/Setting: Applying default migrations...
+2024-11-27 13:22:26: e2ee/utils: Trying to load 0 master keys...
+2024-11-27 13:22:26: e2ee/utils: Loaded master keys: 0
+2024-11-27 13:22:26: ResourceFetcher: Auto-add resources: Mode: always
+2024-11-27 13:22:26: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-11-27 13:22:26: ResourceFetcher: Auto-added resources: 0
+2024-11-27 13:22:26: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-11-27 13:22:26: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-11-27 13:22:26: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-27 13:22:26: e2ee/utils: Trying to load 0 master keys...
+2024-11-27 13:22:26: e2ee/utils: Loaded master keys: 0
+2024-11-27 13:22:26: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-27 13:22:26: e2ee/utils: Trying to load 0 master keys...
+2024-11-27 13:22:26: e2ee/utils: Loaded master keys: 0
+2024-11-27 13:22:26: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-27 13:22:26: e2ee/utils: Trying to load 0 master keys...
+2024-11-27 13:22:26: e2ee/utils: Loaded master keys: 0
+2024-11-27 13:22:26: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-11-27 13:22:26: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 2
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732731746675,
+        "user_updated_time": 1732731746675,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-27 13:22:26: App: PARENT 
+2024-11-27 13:22:26: App: FFF golang 
+2024-11-27 13:22:26: App: FFF Trash 
+2024-11-27 13:22:27: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-11-27 13:22:30: Disabling fullscreen...
+2024-11-27 13:30:50: RevisionService: maintenance: Starting...
+2024-11-27 13:30:50: RevisionService: maintenance: Service is enabled
+2024-11-27 13:30:50: SearchEngine: Updating FTS table...
+2024-11-27 13:30:50: Preparing scheduled sync
+2024-11-27 13:30:50: Sync cancelled - no sync target is selected.
+2024-11-27 13:30:50: ResourceService::indexNoteResources: Start
+2024-11-27 13:30:50: Running background sync on timer...
+2024-11-27 13:30:50: Preparing scheduled sync
+2024-11-27 13:30:50: Sync cancelled - no sync target is selected.
+2024-11-27 13:30:50: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-11-27 13:30:50: RevisionService: maintenance: Done in 117ms
+2024-11-27 13:30:50: ResourceService::indexNoteResources: Completed
+2024-11-27 13:30:50: ResourceService::deleteOrphanResources: []
+2024-11-27 13:30:50: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-27 13:30:50: SearchEngine: Updated FTS table in 21ms. Inserted: 1. Deleted: 0
+2024-11-27 13:31:05: Preparing scheduled sync
+2024-11-27 13:31:05: Sync cancelled - no sync target is selected.
+2024-11-27 13:31:07: Disabling fullscreen...
+2024-11-27 13:35:39: RevisionService: maintenance: Starting...
+2024-11-27 13:35:39: RevisionService: maintenance: Service is enabled
+2024-11-27 13:35:39: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-11-27 13:35:39: RevisionService: maintenance: Done in 108ms
+2024-11-27 13:35:44: Fetching geolocation...
+2024-11-27 13:35:44: Got lat/long
+2024-11-27 13:35:44: Updating lat/long of note 87cba203dd4f41c9bf3b778a23cc1821
+2024-11-27 13:35:45: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 3
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732732545606,
+        "user_updated_time": 1732732545606,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-27 13:35:45: App: PARENT 
+2024-11-27 13:35:45: App: FFF golang 
+2024-11-27 13:35:45: App: FFF Trash 
+2024-11-27 13:35:49: SearchEngine: Updating FTS table...
+2024-11-27 13:35:49: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-27 13:35:49: SearchEngine: Updated FTS table in 16ms. Inserted: 2. Deleted: 0
+2024-11-27 13:35:50: Running background sync on timer...
+2024-11-27 13:35:50: Preparing scheduled sync
+2024-11-27 13:35:50: Sync cancelled - no sync target is selected.
+2024-11-27 13:36:08: Disabling fullscreen...
+2024-11-27 23:59:28: Running background sync on timer...
+2024-11-27 23:59:28: Preparing scheduled sync
+2024-11-27 23:59:28: Sync cancelled - no sync target is selected.
+2024-11-27 23:59:28: RevisionService: maintenance: Starting...
+2024-11-27 23:59:28: RevisionService: maintenance: Service is enabled
+2024-11-27 23:59:28: ResourceService::indexNoteResources: Start
+2024-11-27 23:59:28: ResourceService::indexNoteResources: Completed
+2024-11-27 23:59:28: ResourceService::deleteOrphanResources: []
+2024-11-27 23:59:28: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-11-27 23:59:28: RevisionService: maintenance: Done in 111ms
+2024-11-28 00:01:13: App: Profile directory: /Users/nrd/.config/joplin
+2024-11-28 00:01:13: App: Root profile directory: /Users/nrd/.config/joplin
+2024-11-28 00:01:13: Database was open successfully
+2024-11-28 00:01:13: Checking for database schema update...
+2024-11-28 00:01:13: Current database version {"version":47,"table_fields_version":47}
+2024-11-28 00:01:13: Upgrading database from version 47
+2024-11-28 00:01:13: New version: 47. Previously recorded version: 47
+2024-11-28 00:01:13: KeychainService: checking if keychain supported
+2024-11-28 00:01:13: KeychainService: check was already done - skipping. Supported: 1
+2024-11-28 00:01:13: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-11-28 00:01:13: handleSyncStartupOperation: Processing operation: 0
+2024-11-28 00:01:13: App: Client ID: 3ff5db05ce534bec94e28017918df4a9
+2024-11-28 00:01:13: models/Setting: Applying default migrations...
+2024-11-28 00:01:13: e2ee/utils: Trying to load 0 master keys...
+2024-11-28 00:01:13: e2ee/utils: Loaded master keys: 0
+2024-11-28 00:01:13: ResourceFetcher: Auto-add resources: Mode: always
+2024-11-28 00:01:13: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-11-28 00:01:13: ResourceFetcher: Auto-added resources: 0
+2024-11-28 00:01:13: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-11-28 00:01:13: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-11-28 00:01:13: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-28 00:01:13: e2ee/utils: Trying to load 0 master keys...
+2024-11-28 00:01:13: e2ee/utils: Loaded master keys: 0
+2024-11-28 00:01:13: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-28 00:01:13: e2ee/utils: Trying to load 0 master keys...
+2024-11-28 00:01:13: e2ee/utils: Loaded master keys: 0
+2024-11-28 00:01:13: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-28 00:01:13: e2ee/utils: Trying to load 0 master keys...
+2024-11-28 00:01:13: e2ee/utils: Loaded master keys: 0
+2024-11-28 00:01:13: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-11-28 00:01:13: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 3
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732770073550,
+        "user_updated_time": 1732770073550,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-28 00:01:13: App: PARENT 
+2024-11-28 00:01:13: App: FFF golang 
+2024-11-28 00:01:13: App: FFF Trash 
+2024-11-28 00:01:14: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-11-28 00:01:17: RevisionService: maintenance: Starting...
+2024-11-28 00:01:17: RevisionService: maintenance: Service is enabled
+2024-11-28 00:01:17: RevisionService: collectRevisions: Created revisions for 0 notes
+2024-11-28 00:01:17: RevisionService: maintenance: Done in 106ms
+2024-11-28 00:01:23: SearchEngine: Updating FTS table...
+2024-11-28 00:01:23: Preparing scheduled sync
+2024-11-28 00:01:23: Sync cancelled - no sync target is selected.
+2024-11-28 00:01:23: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-28 00:01:23: SearchEngine: Updated FTS table in 24ms. Inserted: 1. Deleted: 0
+2024-11-28 00:01:25: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 3
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732770073550,
+        "user_updated_time": 1732770073550,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    },
+    {
+        "id": "11a649d7b511486e947095121cc51e0e",
+        "title": "intro to opensource programming",
+        "created_time": 1732770085588,
+        "updated_time": 1732770085588,
+        "user_created_time": 1732770085588,
+        "user_updated_time": 1732770085588,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2
+    }
+]
+2024-11-28 00:01:25: App: PARENT 
+2024-11-28 00:01:25: App: FFF golang 
+2024-11-28 00:01:25: App: FFF Trash 
+2024-11-28 00:01:25: App: FFF intro to opensource programming 
+2024-11-28 00:01:26: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 3
+    },
+    {
+        "id": "11a649d7b511486e947095121cc51e0e",
+        "title": "intro to opensource programming",
+        "created_time": 1732770085588,
+        "updated_time": 1732770085588,
+        "user_created_time": 1732770085588,
+        "user_updated_time": 1732770085588,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732770086595,
+        "user_updated_time": 1732770086595,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-28 00:01:26: App: PARENT 
+2024-11-28 00:01:26: App: FFF golang 
+2024-11-28 00:01:26: App: FFF intro to opensource programming 
+2024-11-28 00:01:26: App: FFF Trash 
+2024-11-28 00:01:34: Fetching geolocation...
+2024-11-28 00:01:35: Got lat/long
+2024-11-28 00:01:35: Updating lat/long of note 8ddac5185b684914ac592361b141cc1a
+2024-11-28 00:01:35: Disabling fullscreen...
+2024-11-28 00:03:27: SearchEngine: Updating FTS table...
+2024-11-28 00:03:27: ResourceService::indexNoteResources: Start
+2024-11-28 00:03:27: Preparing scheduled sync
+2024-11-28 00:03:27: Sync cancelled - no sync target is selected.
+2024-11-28 00:03:27: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 3
+    },
+    {
+        "id": "11a649d7b511486e947095121cc51e0e",
+        "title": "intro to opensource programming",
+        "created_time": 1732770085588,
+        "updated_time": 1732770085588,
+        "user_created_time": 1732770085588,
+        "user_updated_time": 1732770085588,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732770207174,
+        "user_updated_time": 1732770207174,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-28 00:03:27: App: PARENT 
+2024-11-28 00:03:27: App: FFF golang 
+2024-11-28 00:03:27: App: FFF intro to opensource programming 
+2024-11-28 00:03:27: App: FFF Trash 
+2024-11-28 00:03:27: ResourceService::indexNoteResources: Completed
+2024-11-28 00:03:27: ResourceService::deleteOrphanResources: []
+2024-11-28 00:03:27: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-28 00:03:27: SearchEngine: Updated FTS table in 15ms. Inserted: 1. Deleted: 0
+2024-11-29 04:13:29: App: Profile directory: /Users/nrd/.config/joplin
+2024-11-29 04:13:29: App: Root profile directory: /Users/nrd/.config/joplin
+2024-11-29 04:13:29: Database was open successfully
+2024-11-29 04:13:29: Checking for database schema update...
+2024-11-29 04:13:29: Current database version {"version":47,"table_fields_version":47}
+2024-11-29 04:13:29: Upgrading database from version 47
+2024-11-29 04:13:29: New version: 47. Previously recorded version: 47
+2024-11-29 04:13:29: KeychainService: checking if keychain supported
+2024-11-29 04:13:29: KeychainService: check was already done - skipping. Supported: 1
+2024-11-29 04:13:29: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-11-29 04:13:29: handleSyncStartupOperation: Processing operation: 0
+2024-11-29 04:13:29: App: Client ID: 3ff5db05ce534bec94e28017918df4a9
+2024-11-29 04:13:29: models/Setting: Applying default migrations...
+2024-11-29 04:13:29: e2ee/utils: Trying to load 0 master keys...
+2024-11-29 04:13:29: e2ee/utils: Loaded master keys: 0
+2024-11-29 04:13:29: ResourceFetcher: Auto-add resources: Mode: always
+2024-11-29 04:13:29: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-11-29 04:13:29: ResourceFetcher: Auto-added resources: 0
+2024-11-29 04:13:29: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-11-29 04:13:29: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-11-29 04:13:29: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-29 04:13:29: e2ee/utils: Trying to load 0 master keys...
+2024-11-29 04:13:29: e2ee/utils: Loaded master keys: 0
+2024-11-29 04:13:29: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-29 04:13:29: e2ee/utils: Trying to load 0 master keys...
+2024-11-29 04:13:29: e2ee/utils: Loaded master keys: 0
+2024-11-29 04:13:29: App: "syncInfoCache" was changed - setting up encryption related code
+2024-11-29 04:13:29: e2ee/utils: Trying to load 0 master keys...
+2024-11-29 04:13:29: e2ee/utils: Loaded master keys: 0
+2024-11-29 04:13:29: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-11-29 04:13:29: App: FFFFFFFFFFFFF [
+    {
+        "id": "8cc9420bc9a443f5a669c7edf2055855",
+        "title": "golang",
+        "created_time": 1731571019832,
+        "updated_time": 1731571019832,
+        "user_created_time": 1731571019832,
+        "user_updated_time": 1731571019832,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 3
+    },
+    {
+        "id": "11a649d7b511486e947095121cc51e0e",
+        "title": "intro to opensource programming",
+        "created_time": 1732770085588,
+        "updated_time": 1732770085588,
+        "user_created_time": 1732770085588,
+        "user_updated_time": 1732770085588,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1732871609916,
+        "user_updated_time": 1732871609916,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-11-29 04:13:29: App: PARENT 
+2024-11-29 04:13:29: App: FFF golang 
+2024-11-29 04:13:29: App: FFF intro to opensource programming 
+2024-11-29 04:13:29: App: FFF Trash 
+2024-11-29 04:13:30: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-11-29 04:13:33: RevisionService: maintenance: Starting...
+2024-11-29 04:13:33: RevisionService: maintenance: Service is enabled
+2024-11-29 04:13:34: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-11-29 04:13:34: RevisionService: maintenance: Done in 127ms
+2024-11-29 04:13:39: SearchEngine: Updating FTS table...
+2024-11-29 04:13:39: Preparing scheduled sync
+2024-11-29 04:13:39: Sync cancelled - no sync target is selected.
+2024-11-29 04:13:39: Updating items_normalized from {"updated_time":0,"id":""}
+2024-11-29 04:13:39: SearchEngine: Updated FTS table in 3ms. Inserted: 0. Deleted: 0
+2024-11-29 04:13:59: ResourceService::indexNoteResources: Start
+2024-11-29 04:14:00: ResourceService::indexNoteResources: Completed
+2024-11-29 04:14:00: ResourceService::deleteOrphanResources: []
+2024-11-29 04:18:29: Running background sync on timer...
+2024-11-29 04:18:29: Preparing scheduled sync
+2024-11-29 04:18:29: Sync cancelled - no sync target is selected.
+2024-11-29 04:31:28: Running background sync on timer...
+2024-11-29 04:31:28: Preparing scheduled sync
+2024-11-29 04:31:28: Sync cancelled - no sync target is selected.
+2024-11-29 04:31:28: RevisionService: maintenance: Starting...
+2024-11-29 04:31:28: RevisionService: maintenance: Service is enabled
+2024-11-29 04:31:28: RevisionService: collectRevisions: Created revisions for 0 notes
+2024-11-29 04:31:28: RevisionService: maintenance: Done in 103ms
+2024-11-29 04:36:28: Running background sync on timer...
+2024-11-29 04:36:28: Preparing scheduled sync
+2024-11-29 04:36:28: Sync cancelled - no sync target is selected.
+2024-11-29 04:41:35: RevisionService: maintenance: Starting...
+2024-11-29 04:41:35: RevisionService: maintenance: Service is enabled
+2024-11-29 04:41:35: Running background sync on timer...
+2024-11-29 04:41:35: Preparing scheduled sync
+2024-11-29 04:41:35: Sync cancelled - no sync target is selected.
+2024-11-29 04:41:35: RevisionService: collectRevisions: Created revisions for 0 notes
+2024-11-29 04:41:35: RevisionService: maintenance: Done in 103ms
